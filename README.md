@@ -1,4 +1,4 @@
-# WWT String Encoder
+# WWT String Encoder Test
 
 If you're applying for a .NET development position at World Wide Technology Application Services then this is the repo for you!
 
